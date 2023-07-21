@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <br />
 -
  <br />
-🎓 Recientemente finalice un bootcamp en "Soy Henry" con mas de 400 horas, en el cual realice bastantes proyectos como por ejemplo una App donde se maneja el CRUD mediante una API y una base de datos, y luego para finalizar esta etapa realizamos un E-commerce en grupo. 
+🎓 Recientemente finalice un bootcamp en "Soy Henry" con mas de 800 horas, en el cual realice bastantes proyectos como por ejemplo una App donde se maneja el CRUD mediante una API y una base de datos, y luego para finalizar esta etapa realizamos un E-commerce en grupo. 
  <br />
 -
  <br />
