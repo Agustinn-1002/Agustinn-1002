@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <hr />
 <h2 align="left"> 👨🏽‍💻 Connect with me: </h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/mauro-agustin-pasten-81ba57254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauro-agustin-pasten-81ba57254/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mauro-agustin-pasten-68a39b289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauro-agustin-pasten-68a39b289/ linkedin" height="30" width="40" /></a>
 </p>
